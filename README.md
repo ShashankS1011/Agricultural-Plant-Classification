@@ -17,7 +17,7 @@ Traditional pest identification methods rely on expert entomologists and are tim
 
 ## 📊 Dataset
 
-We used the **[Dangerous Insects Dataset](https://www.kaggle.com/datasets/tarundalal/dangerous-insects-dataset)** from Kaggle (by Tarun Dalal).  
+We used the **[Dangerous Insects Dataset](https://www.kaggle.com/datasets/tarundalal/dangerous-insects-dataset)** from Kaggle.
 
 ### Dataset Details:
 - Contains multiple classes of **dangerous insect species** relevant for agricultural and ecological research.  
